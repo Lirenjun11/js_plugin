@@ -8,8 +8,8 @@
   "main": "main.js",
   "permissions": ["storage", "songs.read", "songs.write", "playlists.write"],
   "publicPaths": ["/config", "/test", "/preview", "/sync", "/last-sync", "/music-url", "/api/ranking/list", "/api/ranking/detail", "/api/import-to-playlist", "/api/config", "/api/test", "/api/search", "/api/external/search", "/api/music/url", "/api/local-songs", "/api/lx-search", "/api/xiaoai-log", "/api/ranking", "/import-to-playlist", "/ranking", "/api/download-song", "/api/download-batch", "/api/download-batch/progress", "/api/download-batch/clear", "/api/download-by-ids", "/lyric-search", "/api/lyric-search", "/api/lyrics/config", "/api/lyrics/test-search", "/api/lyrics/missing", "/api/lyrics/match-batch", "/api/lyrics/match-batch/progress"],
-  "updateUrl": "https://b.lirj.ccwu.cc/songloftjs/lxplugin.json",
-  "download_url": "https://b.lirj.ccwu.cc/songloftjs/lx-songloft-js.jsplugin.zip",
+  "updateUrl": "https://raw.githubusercontent.com/Lirenjun11/js_plugin/refs/heads/main/lxsyncserver.json",
+  "download_url": "https://raw.githubusercontent.com/Lirenjun11/js_plugin/refs/heads/main/lx-songloft-js.jsplugin.zip",
   "entryHash": "",
   "zipHash": ""
 }
