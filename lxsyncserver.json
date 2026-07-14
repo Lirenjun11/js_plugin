@@ -1,6 +1,6 @@
 {
   "name": "LXSyncServer",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "从 LX Sync Server 拉取用户歌单并同步为 Songloft 网络歌曲与歌单。",
   "author": "LIRJ",
   "license": "MIT",
