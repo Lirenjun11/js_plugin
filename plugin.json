@@ -1,5 +1,5 @@
 {
-  "name": "lirj",
+  "name": "HW-RJ",
   "plugins": [
     "https://raw.githubusercontent.com/Lirenjun11/js_plugin/refs/heads/main/musicfree.json",
     "https://raw.githubusercontent.com/Lirenjun11/js_plugin/refs/heads/main/lxsyncserver.json"
