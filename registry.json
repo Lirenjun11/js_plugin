@@ -1,6 +1,6 @@
 {
   "name": "HW-RJ",
   "plugins": [
-    "https://github.com/Lirenjun11/musicfree-songloft-js/raw/refs/heads/master/plugin.json"
+    "https://raw.githubusercontent.com/Lirenjun11/MF-songloft-js/refs/heads/master/plugin.json"
   ]
 }
